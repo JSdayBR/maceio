@@ -39,7 +39,7 @@
   complexity: "Intermediate"
 -
   id: 101
-  title: "JavaScipt Robotics: NodeBots, JavaScript além das telas"
+  title: "JavaScript Robotics: NodeBots, JavaScript além das telas"
   description: "Conheça um JavaScript extremamente diferente de qualquer outra coisa que você já imaginou! Nesta presentação vamos mostrar o poder supremo do JavaScript, vamos usar o Node.js para controlar coisas do mundo real, como Robôs e Drones. Acha que isso é impossível? Então vamos te apresentar ao JavaScript Robotcs e você vera com seus próprios olhos!"
   subtype: presentation
   speakers: [2]
